@@ -1,2 +1,2 @@
 # react_guide
-Calendar created by react .js
+App to keep expenses organized
