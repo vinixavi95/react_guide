@@ -1,2 +1,2 @@
 # react_guide
-App to keep expenses organized
+Repositório para armazenar códigos do curso React JS
